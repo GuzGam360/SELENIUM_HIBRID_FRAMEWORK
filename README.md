@@ -15,7 +15,7 @@ Note: I know that is a typo on the name of the project
 
 This is the structure that i'm trying to reach
 
-**```bash**
+```bash
 src/
 ├── main/
 │   ├── java/
@@ -36,6 +36,6 @@ src/
 │                   ├── tests/             // Test scripts
 │                   └── data/              // Datos para pruebas
 └── pom.xml                                // Configuración del proyecto (si usas Maven)
-**```bash**
+
 
 
