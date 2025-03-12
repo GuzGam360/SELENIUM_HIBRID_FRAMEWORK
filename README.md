@@ -35,7 +35,7 @@ src/
 │               └── myproject/
 │                   ├── tests/             // Test scripts
 │                   └── data/              // Datos para pruebas
-└── pom.xml                                // Configuración del proyecto (si usas Maven)
+└── pom.xml                                // Configuración del proyecto
 
 
 
