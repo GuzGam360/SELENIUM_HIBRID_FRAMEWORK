@@ -1,6 +1,7 @@
 # SELENIUM_HYBRID_FRAMEWORK
 
 This Framework has purposes to learn and also make implementations easier in some projects
+<p/>
 Note: I know that is a typo on the name of the project
 
 # DEPENDENCIES
